@@ -17,3 +17,4 @@ body {
     }
     Murach's HTML and CSS, 5th Edition© 2022, Mike Murach & Associates, Inc. C2, Slide 13
     
+    .content { background-color: blue; /* "blue" is not a valid color value. It should be "blue". */ }
